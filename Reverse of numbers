@@ -1,0 +1,14 @@
+# Online Python - IDE, Editor, Compiler, Interpreter
+n=int(input('Enter number:'))
+l=[i for i in range(n,0,-1)]
+print(l)
+
+output:
+Enter number:
+20
+[20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
+Online Python Compiler
